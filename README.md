@@ -1,6 +1,6 @@
 # Java-Algogen (Java algorithm generator)
 A project to '[help](https://github.com/OogleGlu/Java-Algogen/blob/main/ExcessInfo.txt)' 
-the '[needy]'(https://github.com/OogleGlu/Java-Algogen/blob/main/ExcessInfo.txt) to convert their Java code into an algorithm document. 
+the '[needy](https://github.com/OogleGlu/Java-Algogen/blob/main/ExcessInfo.txt)' to convert their Java code into an algorithm document. 
 The software only supports one kind of algorithm format as of yet. 
 Plans to add more formats is not under consideration yet ( that is all the yets you'll see ).
 
