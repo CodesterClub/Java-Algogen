@@ -1,1 +1,17 @@
+# How we help the needy?
+The [CISCE]() board computer science students require to 
+make projects where they code about 20 complex programs in Java. 
+Then they are required to document the code using:
+- Variable description charts
+- Different I/O
+- Algorithm
 
+<em>"A programming language is for thinking about programs,<br>
+not for expressing programs you've already thought of.<br>
+It should be a pencil, not a pen." - Paul Graham<em>
+
+### Hence we decided to automate the ugliest part of 
+the documentation process:
+- Rewriting your code as an algorithm
+
+### P.S. No fear while we are here
