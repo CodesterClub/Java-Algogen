@@ -13,7 +13,7 @@ need to execute the class Main in it. You'll enter
 the java code in the terminal and the output will be generated 
 as a 'YourClass_Algo.txt' file which is saved in the 'Algos' directory.
 
-[Download ZIP](#)
+[Download ZIP](https://github.com/OogleGlu/Java-Algogen/archive/main.zip)
 
 ## Index of Classes:
-- [Main](#)
+- [Main](https://github.com/OogleGlu/Java-Algogen/blob/main/Main.java)
