@@ -8,10 +8,13 @@ Then they are required to document the code using:
 
 <em>"A programming language is for thinking about programs,<br>
 not for expressing programs you've already thought of.<br>
-It should be a pencil, not a pen." - Paul Graham<em>
+It should be a pencil, not a pen." - Paul Graham</em>
 
 ### Hence we decided to automate the ugliest part of 
 the documentation process:
 - Rewriting your code as an algorithm
 
-### P.S. No fear while we are here
+### If the board takes action to prevent students using our 
+software, we'll change the format of algorithms or if required 
+the language from Java to what is in the board's syllabus as 
+and when required.
