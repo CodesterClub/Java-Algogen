@@ -37,7 +37,8 @@ Then they are required to document the code using:
 ## Remember
 <em>"A programming language is for thinking about programs, 
 not for expressing programs you've already thought of. 
-It should be a pencil, not a pen."<br>&ensp;&#8211;Paul Graham</em>
+It should be a pencil, not a pen."
+<br>&ensp;&#8211;Paul Graham</em>
 
 ## Who are the needy?
 As of 12th Jan of 2021, I ([OogleGlu](https://github.com/OogleGlu)) have just recovered from writing about 20 algorithms 
