@@ -52,7 +52,7 @@ class Main {
 			// Function declarations
 			else if ( line.indexOf( "void " + clss ) != -1 | 
 								line.indexOf( "int " + clss ) != -1  |
-								line.indexOf( "double " + clss ) != -1) {
+								line.indexOf( "float " + clss ) != -1) {
 				algo.println( line.replace( "{", ":" ).replace( "extends", "inherits" ) );
 			}
 			else {
