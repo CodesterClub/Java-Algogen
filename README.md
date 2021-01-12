@@ -27,9 +27,10 @@ Then they are required to document the code using:
 
 ## Who are the needy:
 As of 12th Jan of 2021, I ([OogleGlu](https://github.com/OogleGlu)) have just recovered from writing about 20 algorithms 
-for my [ISC-Computer-Practical](https://github.com/OogleGlu/ISC-Computer-Practical) repository (the .algo files). Why? Coz I am lazy 
-enough to not do a day's work in that day.
-This project is intended to save such lazy people.
+for my [ISC-Computer-Practical](https://github.com/OogleGlu/ISC-Computer-Practical) repository (the .algo files) in 
+a single night for submission to school.Why? Coz I am lazy enough to not do a day's work in that day.This project is 
+intended to save such lazy people.<br><b>NOTE:</b> No one asked me to post it to GitHub. I did that so I could work on the 
+practical away from home.
 
 ## Remember:
 <em>"A programming language is for thinking about programs, 
