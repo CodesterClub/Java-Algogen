@@ -26,8 +26,8 @@ Then they are required to document the code using:
 - Algorithm
 
 ## Who are the needy:
-As of 12th Jan of 2021, I've ([OogleGlu]) just recovered from writing about 20 algorithms 
-for my [ISC-Computer-Project] repository (the .algo files). Why? Coz I am lazy 
+As of 12th Jan of 2021, I've ([OogleGlu](OogleGlu)) just recovered from writing about 20 algorithms 
+for my [ISC-Computer-Project](OogleGlu/ISC-Computer-Project) repository (the .algo files). Why? Coz I am lazy 
 enough to not do a day's work in that day.
 This project is intended to save such lazy people.
 
