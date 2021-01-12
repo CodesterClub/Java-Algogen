@@ -26,9 +26,9 @@ Then they are required to document the code using:
 - Different I/O
 - Algorithm
 
-`<em>"A programming language is for thinking about programs, 
+<em>"`A programming language is for thinking about programs, 
 not for expressing programs you've already thought of. 
-It should be a pencil, not a pen."<br>&ensp;&#8211;Paul Graham</em>`
+It should be a pencil, not a pen.`"<br>&ensp;&#8211;Paul Graham</em>
 
 ## Hence we decided to automate: 
 - The ugliest part of the documentation process, i.e. rewriting your code as an algorithm
