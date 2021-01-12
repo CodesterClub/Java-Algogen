@@ -25,6 +25,12 @@ Then they are required to document the code using:
 - Different I/O
 - Algorithm
 
+## Who are the needy:
+As of 12th Jan of 2021, I've ([OogleGlu]) just recovered from writing about 20 algorithms 
+for my [ISC-Computer-Project] repository (the .algo files). Why? Coz I am lazy 
+enough to not do a day's work in that day.
+This project is intended to save such lazy people.
+
 ## Remember:
 <em>"A programming language is for thinking about programs, 
 not for expressing programs you've already thought of. 
@@ -37,4 +43,4 @@ i.e. rewriting 20 codes as an algorithm.
 ## Note
 We will continue updating the format to make the algorithm look 
 more human-made. If the board changes the style of algorithm, we'll 
-change ours to theirs.
+change ours to fit theirs.
