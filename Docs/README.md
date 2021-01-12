@@ -10,11 +10,10 @@ Then they are required to document the code using:
 not for expressing programs you've already thought of. 
 It should be a pencil, not a pen."<br>&ensp;&#8211;Paul Graham</em>
 
-### Hence we decided to automate the ugliest part of 
-the documentation process:
-- Rewriting your code as an algorithm
+### Hence we decided to automate: 
+- The ugliest part of the documentation process, i.e. rewriting your code as an algorithm
 
-### If the board takes action to prevent students using our 
-software, we'll change the format of algorithms or if required 
-the language from Java to what is in the board's syllabus as 
-and when required.
+### Note
+We will continue updating the format to make the algorithm look 
+more human-made. If the board changes the style of algorithm, we'll 
+change ours to theirs.
