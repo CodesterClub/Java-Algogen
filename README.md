@@ -1,6 +1,6 @@
 # Java-Algogen (Java algorithm generator)
-A project to <i>help</i> the <i>needy</i> to convert their Java code into an algorithm document. 
-The software only supports one kind of algorithm format as of yet. 
+A project to 'help' the 'needy' to convert their Java code into an algorithm document. 
+The software only supports one kind of algorithm format yet. 
 Plans to add more formats is not under consideration yet ( that is all the yets you'll see ).
 
 <a href = "https://github.com/OogleGlu/Java-Algogen/archive/main.zip">
@@ -26,7 +26,7 @@ Plans to add more formats is not under consideration yet ( that is all the yets 
 ## Contacts
 - @OogleGlu: peter2003smith@gmail.com
 
-## How will we help the needy?
+## How will we 'help' the needy?
 The [CISCE](https://en.m.wikipedia.org/wiki/Council_for_the_Indian_School_Certificate_Examinations) board computer science students require to 
 make projects where they code about 20 complex programs in Java. 
 Then they are required to document the code using:
@@ -37,15 +37,13 @@ Then they are required to document the code using:
 ## Remember
 <em>"A programming language is for thinking about programs, 
 not for expressing programs you've already thought of. 
-It should be a pencil, not a pen."
-<br>&ensp;&#8211;Paul Graham</em>
+It should be a pencil, not a pen."<br>
+&ensp;&ensp;&#8211;Paul Graham</em>
 
-## Who are the needy?
+## Who are the 'needy'?
 As of 12th Jan of 2021, I ([OogleGlu](https://github.com/OogleGlu)) have just recovered from writing about 20 algorithms 
-for my [ISC-Computer-Practical](https://github.com/OogleGlu/ISC-Computer-Practical) in 
-a single night for submission to school. Why? Coz I am lazy enough to not do a day's work in that day. This project is 
-intended to save such lazy people.<br><b>NOTE:</b> No one asked me to post it to GitHub. I did that so I could work on the 
-practical away from home.
+for my [ISC-Computer-Practical](https://github.com/OogleGlu/ISC-Computer-Practical) in a single night for submission to school. 
+Why? Coz I am lazy enough to not do a day's work in that day. This project is intended to save such lazy people.<br>
 
 ## Hence,
 We decided to automate the ugliest part of the documentation process, 
