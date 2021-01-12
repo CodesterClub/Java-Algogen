@@ -1,5 +1,5 @@
 # Java-Algogen (Java algorithm generator)
-A project to <i>help<i> the <i>needy<i> to convert their Java code into an algorithm document. 
+A project to <i>help</i> the <i>needy</i> to convert their Java code into an algorithm document. 
 The software only supports one kind of algorithm format as of yet. 
 Plans to add more formats is not under consideration yet ( that is all the yets you'll see ).
 
