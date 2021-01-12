@@ -9,7 +9,7 @@ need to execute the class Main in it. You'll enter
 the java code in the terminal and the output will be generated 
 as a 'YourClass_Algo.txt' file which is saved in the 'Algos' directory.
 
-[Download ZIP](https://github.com/OogleGlu/Java-Algogen/archive/main.zip)
+[<button>Download ZIP</button>](https://github.com/OogleGlu/Java-Algogen/archive/main.zip)
 
 ## Index of Classes:
 - [Main](https://github.com/OogleGlu/Java-Algogen/blob/main/Main.java)
@@ -25,12 +25,14 @@ Then they are required to document the code using:
 - Different I/O
 - Algorithm
 
+## Remember:
 <em>"A programming language is for thinking about programs, 
 not for expressing programs you've already thought of. 
 It should be a pencil, not a pen."<br>&ensp;&#8211;Paul Graham</em>
 
-## Hence we decided to automate: 
-- The ugliest part of the documentation process, i.e. rewriting your code as an algorithm
+## Hence: 
+We decided to automate the ugliest part of the documentation process, 
+i.e. rewriting 20 codes as an algorithm.
 
 ## Note
 We will continue updating the format to make the algorithm look 
