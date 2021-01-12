@@ -18,7 +18,7 @@ Plans to add more formats is not under consideration yet ( that is all the yets 
 ## How to use?
 - You need to [download the ZIP](https://github.com/OogleGlu/Java-Algogen/archive/main.zip). 
 - Then extract it somewhere.
-- Place folder containing your source files in the `root` of the extracted directory
+- Place folder containing your java source files in the `root` of the extracted directory.
 - Execute the class `Main`. 
 - Enter the source file path and the output will be generated as a `Class_Algo.txt` in the `Algos` directory of `root`.
 
