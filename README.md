@@ -3,13 +3,23 @@ A project to <i>help</i> the <i>needy</i> to convert their Java code into an alg
 The software only supports one kind of algorithm format as of yet. 
 Plans to add more formats is not under consideration yet ( that is all the yets you'll see ).
 
-## How to use
-As of now you need to Download the ZIP. Then you 
-need to execute the class Main in it. You'll enter 
-the java code in the terminal and the output will be generated 
-as a 'YourClass_Algo.txt' file which is saved in the 'Algos' directory.
+<a href = "https://github.com/OogleGlu/Java-Algogen/archive/main.zip">
+	<button id = "download" onclick = "document.getElementById('download').style.backgroundColor='#FFFFFF'; document.getElementById('download').style.color='#159957';" style = "color: white; height: 45px; background-color: #159957; border: 2px #159957 solid; border-color: #159957; border-radius: 5px;">
+		Download ZIP
+	</button>
+</a>
+&emsp;
+<a href = "https://github.com/OogleGlu/Java-Algogen/">
+	<button id = "github" onclick = "document.getElementById('github').style.backgroundColor='#FFFFFF'; document.getElementById('github').style.color='#159957';" style = "color: white; height: 45px; background-color: #159957; border: 2px #159957 solid; border-color: #159957; border-radius: 5px;">
+		View On GitHub
+	</button>
+</a>
 
-[<button>Download ZIP</button>](https://github.com/OogleGlu/Java-Algogen/archive/main.zip)
+## How to use?
+- You need to [download the ZIP](https://github.com/OogleGlu/Java-Algogen/archive/main.zip). 
+- Then you need to execute the class Main in it. 
+- You'll enter the java code in the terminal and the output will be generated 
+as a `YourClass_Algo.txt` file which is saved in the `Algos` directory.
 
 ## Index of Classes:
 - [Main](https://github.com/OogleGlu/Java-Algogen/blob/main/Main.java)
@@ -25,19 +35,19 @@ Then they are required to document the code using:
 - Different I/O
 - Algorithm
 
-## Who are the needy:
-As of 12th Jan of 2021, I ([OogleGlu](https://github.com/OogleGlu)) have just recovered from writing about 20 algorithms 
-for my [ISC-Computer-Practical](https://github.com/OogleGlu/ISC-Computer-Practical) repository (the .algo files) in 
-a single night for submission to school.Why? Coz I am lazy enough to not do a day's work in that day.This project is 
-intended to save such lazy people.<br><b>NOTE:</b> No one asked me to post it to GitHub. I did that so I could work on the 
-practical away from home.
-
-## Remember:
+## Remember
 <em>"A programming language is for thinking about programs, 
 not for expressing programs you've already thought of. 
 It should be a pencil, not a pen."<br>&ensp;&#8211;Paul Graham</em>
 
-## Hence: 
+## Who are the needy?
+As of 12th Jan of 2021, I ([OogleGlu](https://github.com/OogleGlu)) have just recovered from writing about 20 algorithms 
+for my [ISC-Computer-Practical](https://github.com/OogleGlu/ISC-Computer-Practical) in 
+a single night for submission to school. Why? Coz I am lazy enough to not do a day's work in that day. This project is 
+intended to save such lazy people.<br><b>NOTE:</b> No one asked me to post it to GitHub. I did that so I could work on the 
+practical away from home.
+
+## Hence,
 We decided to automate the ugliest part of the documentation process, 
 i.e. rewriting 20 codes as an algorithm.
 
