@@ -1,5 +1,5 @@
 # Java-Algogen (Java algorithm generator)
-<font style = "color: silver;">Last updated on 13 Jan, 2021</font>
+<font style = "color: lightgrey;">Last updated on 13 Jan, 2021</font>
 <b><font style = "color: red;">PROJECT INCOMPLETE. WORK IN PROGRESS!</font></b><br>
 A project to 'help' the 'needy' to convert their Java code into an algorithm document. 
 The software only supports one kind of algorithm format yet. 
@@ -45,7 +45,7 @@ Then they are required to document the code using:
 <em>"A programming language is for thinking about programs, 
 not for expressing programs you've already thought of. 
 It should be a pencil, not a pen."<br>
-&ensp;&ensp;&#8211;Paul Graham</em>
+&ensp;&ensp;&ensp;&#8211;Paul Graham</em>
 
 ## Who are the 'needy'?
 As of 12th Jan of 2021, I ([OogleGlu](https://github.com/OogleGlu)) have just recovered from writing about 20 algorithms 
