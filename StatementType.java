@@ -5,7 +5,7 @@
  */
 class StatementType {
 	// Instance variables (all static)
-	public static String[] datatypes = {		// Note that although String is a class
+	public String[] datatypes = {		// Note that although String is a class
 		"void",																// it is inculed in this list as String 
 		"boolean",														// is very popular for handling of data
 		"short",
@@ -16,45 +16,44 @@ class StatementType {
 		"double",
 		"String"
 	}
-
-	// Methods (all static)
-	public static boolean importDeclaration( String line ) {
+	// Methods for detection (all static)
+	public boolean importDeclaration( String line ) {
 		return true;
 	}
-	public static boolean classDeclaration( String line ) {
+	public boolean classDeclaration( String line ) {
 		return true;
 	}
-	public static boolean functionDeclaration( String line ) {
+	public boolean functionDeclaration( String line ) {
 		return true;
 	}
-	public static boolean variableDeclaration( String line ) {
+	public boolean variableDeclaration( String line ) {
 		return true;
 	}
-	public static boolean variableInitialisation( String line ) {
+	public boolean variableInitialisation( String line ) {
 		return true;
 	}
 	// Variable declaration with initialisation
-	public static boolean varDecAndInit( String line ) {
+	public boolean varDecAndInit( String line ) {
 		return true;
 	}
-	public static boolean objectDeclaration( String line ) {
+	public boolean objectDeclaration( String line ) {
 		return true;
 	}
-	public static boolean objectInitialisation( String line ) {
+	public boolean objectInitialisation( String line ) {
 		return true;
 	}
 	// Object declaration with initialisation
-	public static boolean objDecAndInit( String line ) {
+	public boolean objDecAndInit( String line ) {
 		return true;
 	}
-	public static boolean arrayDeclaration( String line ) {
+	public boolean arrayDeclaration( String line ) {
 		return true;
 	}
-	public static boolean arrayInitialisation( String line ) {
+	public boolean arrayInitialisation( String line ) {
 		return true;
 	}
 	// Array declaration with initialisation
-	public static boolean arrDecAndInit( String line ) {
+	public boolean arrDecAndInit( String line ) {
 		return true;
 	}
 }
