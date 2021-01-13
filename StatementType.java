@@ -9,10 +9,9 @@ class StatementType {
 	public OtherMethods om;
 
 	public StatementType() {
-		datatypes = 
-		{										// Note that although String is a class
-			"void",						// it is inculed in this list as String 
-			"boolean",				// is very popular for handling of data
+		datatypes = new String[] {	// Note that although String is a class
+			"void",										// it is inculed in this list as String 
+			"boolean",								// is very popular for handling of data
 			"short",
 			"char",
 			"int",
@@ -20,7 +19,8 @@ class StatementType {
 			"float",
 			"double",
 			"String"
-		}
+		};
+		om = new OtherMethods();
 	}
 
 	// Methods for detection (all static)
