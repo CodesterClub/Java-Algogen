@@ -24,6 +24,9 @@ Plans to add more formats is not under consideration yet ( that is all the yets 
 
 ## Index of Classes:
 - [Main](https://github.com/OogleGlu/Java-Algogen/blob/main/Main.java)
+- [OtherMethods](https://github.com/OogleGlu/Java-Algogen/blob/main/OtherMethods.java)
+- [StatementConvert](https://github.com/OogleGlu/Java-Algogen/blob/main/StatementConvert.java)
+- [StatementType](https://github.com/OogleGlu/Java-Algogen/blob/main/StatementType.java)
 
 ## Contacts
 - @OogleGlu: peter2003smith@gmail.com
