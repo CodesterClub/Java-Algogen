@@ -1,5 +1,5 @@
 # Java-Algogen (Java algorithm generator)
-<font style = "color: silver;">Last updated 13 Jan, 2021</font>
+<font style = "color: silver;">Last updated on 13 Jan, 2021</font>
 <b><font style = "color: red;">PROJECT INCOMPLETE. WORK IN PROGRESS!</font></b><br>
 A project to 'help' the 'needy' to convert their Java code into an algorithm document. 
 The software only supports one kind of algorithm format yet. 
