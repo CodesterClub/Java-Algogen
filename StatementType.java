@@ -5,17 +5,24 @@
  */
 class StatementType {
 	// Instance variables (all static)
-	public String[] datatypes = {		// Note that although String is a class
-		"void",																// it is inculed in this list as String 
-		"boolean",														// is very popular for handling of data
-		"short",
-		"char",
-		"int",
-		"long",
-		"float",
-		"double",
-		"String"
+	public String[] datatypes;
+	public OtherMethods om;
+
+	public StatementType() {
+		datatypes = 
+		{										// Note that although String is a class
+			"void",						// it is inculed in this list as String 
+			"boolean",				// is very popular for handling of data
+			"short",
+			"char",
+			"int",
+			"long",
+			"float",
+			"double",
+			"String"
+		}
 	}
+
 	// Methods for detection (all static)
 	public boolean importDeclaration( String line ) {
 		return true;
