@@ -35,26 +35,22 @@ class Main {
 		 * parts of code.
 		 * It is recommended that unless two kinds of java statement is exactly same, 
 		 * their if blocks should be kept seperate. That is why class and function 
-		 * declarations are not handled by a single block
+		 * declarations are not handled by a single block.
 		 */
 		while ( line = source.readLine() != null ) {
-
 			// Import declarations
-			if ( line.indexOf( "import" ) == 0 ) {
+			if ( importDeclaration( line ) ) {
 				algo.println( line );
 			}
-
 			// Class declarations
-			else if ( line.indexOf( "class " + clss ) != -1 ) {
+			else if ( classDeclaration( line ) ) {
 				algo.println( line.replace( "{", ":" ).replace( "extends", "inherits" ) );
 			}
-
 			// Function declarations
-			else if ( line.indexOf( "void " + clss ) != -1 | 
-								line.indexOf( "int " + clss ) != -1  |
-								line.indexOf( "float " + clss ) != -1) {
+			else if ( functionDeclaration( line ) ) {
 				algo.println( line.replace( "{", ":" ).replace( "extends", "inherits" ) );
 			}
+			// If no module available
 			else {
 				 algo.println( line );
 			}
