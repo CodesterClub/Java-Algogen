@@ -1,3 +1,8 @@
+/**
+ * This class is used to store function that are used to detect 
+ * the type of a java statement. A class returns true if that
+ * kind of state is in line.
+ */
 class StatementType {
 	// Instance variables (all static)
 	public static String[] datatypes = {		// Note that although String is a class
