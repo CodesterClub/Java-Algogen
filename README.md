@@ -1,5 +1,8 @@
 # Java-Algogen (Java algorithm generator)
-<font style = "color: silver;">Last updated on 13 Jan, 2021</font>
+<font style = "color: silver;">
+        Last updated on 13 Jan, 2021
+</font>
+<br>
 <font style = "color: red;">
         <b>PROJECT INCOMPLETE. WORK IN PROGRESS!</b>
 </font>
