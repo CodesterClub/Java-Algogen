@@ -3,7 +3,7 @@
 <br><font style = "color: red;"><b>PROJECT INCOMPLETE. WORK IN PROGRESS!</b></font>
 <br>A project to 'help' the 'needy' to convert their Java code into an algorithm document. 
 The software only supports one kind of algorithm format yet. 
-Plans to add more formats is not under consideration yet ( that is all the yets you'll see ).
+Plans to add more formats is not under consideration yet (that's all the yets you'll see).
 
 <a href = "https://github.com/OogleGlu/Java-Algogen/archive/main.zip">
 	<button id = "download" onclick = "document.getElementById('download').style.backgroundColor='#FFFFFF'; document.getElementById('download').style.color='#159957';" style = "color: white; height: 45px; background-color: #159957; border: 2px #159957 solid; border-color: #159957; border-radius: 5px;">
