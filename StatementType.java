@@ -1,4 +1,4 @@
-class Modules {
+class StatementType {
 	// Instance variables (all static)
 	public static String[] datatypes = {		// Note that although String is a class
 		"void",																// it is inculed in this list as String 
