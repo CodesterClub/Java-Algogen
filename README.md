@@ -66,3 +66,7 @@ i.e. rewriting 20 codes as an algorithm.
 We will continue updating the format to make the algorithm look 
 more human-made. If the board changes the style of algorithm, we'll 
 change ours to fit theirs.
+
+## Note for owners
+Remember to mention your name while commenting in or participating in a GitHub discussion.
+This way others who own it will know who are commenting.
