@@ -31,7 +31,7 @@ Plans to add more formats is not under consideration yet (that's all the yets yo
 - [StatementType](https://github.com/OogleGlu/Java-Algogen/blob/main/StatementType.java)
 
 ## Contacts
-- @OogleGlu: <a href = "mailto:peter2003smith@gmail.com">peter2003smith@gmail.com</a>
+- @CodesterClub: <a href = "mailto:codesterclub@gmail.com">codesterclub@gmail.com</a>
 
 ## How will we 'help' the needy?
 The [CISCE](https://en.m.wikipedia.org/wiki/Council_for_the_Indian_School_Certificate_Examinations) board computer science students require to 
@@ -48,9 +48,9 @@ It should be a pencil, not a pen."<br>
 &ensp;&ensp;&ensp;&#8211;Paul Graham</em>
 
 ## Who are the 'needy'?
-As of 12th Jan of 2021, we ([we who?](https://github.com/CodesterClub)) have just recovered from writing about 20 algorithms 
-for my [ISC-Computer-Practical](https://github.com/OogleGlu/ISC-Computer-Practical) in a single night for submission to school. 
-Why? Coz I am lazy enough to not do a day's work in that day. This project is intended to save such lazy people.<br>
+As of 12th Jan of 2021, we ([we who](https://github.com/CodesterClub)?) have just recovered from writing about 20 algorithms 
+for our [ISC-Computer-Practical](https://github.com/CodesterClub/ISC-Computer-Practical) in a single night for submission to school. 
+Why? Coz we are lazy enough to not do a day's work in that day. This project is intended to save such lazy people.<br>
 
 ## Hence,
 We decided to automate the ugliest part of the documentation process, 
