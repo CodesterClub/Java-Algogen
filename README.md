@@ -17,6 +17,12 @@ Plans to add more formats is not under consideration yet (that's all the yets yo
 	</button>
 </a>
 
+## Contribute
+ - Remember to comment lavishly what changes you have made and why they were necessary when opening a `pull request`
+ - If you have a GitHub account and are not an owner of this repository, `fork` this repository and contribute the usual way.
+ - If you are one of the repository owners, please `DO NOT` commit directly to `master` or `main`. Leave it for the finalised version.
+ - Please `create a branch` and commit there, then open a `pull request`, and then usual `merging` will take place.
+
 ## How to use?
 - You need to [download the ZIP](https://github.com/CodesterClub/Java-Algogen/archive/main.zip). 
 - Then extract it somewhere.
