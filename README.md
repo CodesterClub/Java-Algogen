@@ -5,30 +5,30 @@
 The software only supports one kind of algorithm format yet. 
 Plans to add more formats is not under consideration yet (that's all the yets you'll see).
 
-<a href = "https://github.com/OogleGlu/Java-Algogen/archive/main.zip">
+<a href = "https://github.com/CodesterClub/Java-Algogen/archive/main.zip">
 	<button id = "download" onclick = "document.getElementById('download').style.backgroundColor='#FFFFFF'; document.getElementById('download').style.color='#159957';" style = "color: white; height: 45px; background-color: #159957; border: 2px #159957 solid; border-color: #159957; border-radius: 5px;">
 		Download ZIP
 	</button>
 </a>
 &emsp;
-<a href = "https://github.com/OogleGlu/Java-Algogen/">
+<a href = "https://github.com/CodesterClub/Java-Algogen/">
 	<button id = "github" onclick = "document.getElementById('github').style.backgroundColor='#FFFFFF'; document.getElementById('github').style.color='#159957';" style = "color: white; height: 45px; background-color: #159957; border: 2px #159957 solid; border-color: #159957; border-radius: 5px;">
 		View On GitHub
 	</button>
 </a>
 
 ## How to use?
-- You need to [download the ZIP](https://github.com/OogleGlu/Java-Algogen/archive/main.zip). 
+- You need to [download the ZIP](https://github.com/CodesterClub/Java-Algogen/archive/main.zip). 
 - Then extract it somewhere.
 - Place folder containing your java source files in the `root` of the extracted directory.
 - Execute the class `Main`. 
 - Enter the source file path and the output will be generated as a `Class_Algo.txt` in the `Algos` directory of `root`.
 
 ## Index of Classes:
-- [Main](https://github.com/OogleGlu/Java-Algogen/blob/main/Main.java)
-- [OtherMethods](https://github.com/OogleGlu/Java-Algogen/blob/main/OtherMethods.java)
-- [StatementConvert](https://github.com/OogleGlu/Java-Algogen/blob/main/StatementConvert.java)
-- [StatementType](https://github.com/OogleGlu/Java-Algogen/blob/main/StatementType.java)
+- [Main](https://github.com/CodesterClub/Java-Algogen/blob/main/Main.java)
+- [OtherMethods](https://github.com/CodesterClub/Java-Algogen/blob/main/OtherMethods.java)
+- [StatementConvert](https://github.com/CodesterClub/Java-Algogen/blob/main/StatementConvert.java)
+- [StatementType](https://github.com/CodesterClub/Java-Algogen/blob/main/StatementType.java)
 
 ## Contacts
 - @CodesterClub: <a href = "mailto:codesterclub@gmail.com">codesterclub@gmail.com</a>
@@ -48,7 +48,7 @@ It should be a pencil, not a pen."<br>
 &ensp;&ensp;&ensp;&#8211;Paul Graham</em>
 
 ## Who are the 'needy'?
-As of 12th Jan of 2021, we ([we who](https://github.com/CodesterClub)?) have just recovered from writing about 20 algorithms 
+As of 12th Jan of 2021, we ( [we who](https://github.com/CodesterClub)? ) have just recovered from writing about 20 algorithms 
 for our [ISC-Computer-Practical](https://github.com/CodesterClub/ISC-Computer-Practical) in a single night for submission to school. 
 Why? Coz we are lazy enough to not do a day's work in that day. This project is intended to save such lazy people.<br>
 
