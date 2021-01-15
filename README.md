@@ -48,7 +48,7 @@ It should be a pencil, not a pen."<br>
 &ensp;&ensp;&ensp;&#8211;Paul Graham</em>
 
 ## Who are the 'needy'?
-As of 12th Jan of 2021, I ([OogleGlu](https://github.com/OogleGlu)) have just recovered from writing about 20 algorithms 
+As of 12th Jan of 2021, we ([we who?](https://github.com/CodesterClub)) have just recovered from writing about 20 algorithms 
 for my [ISC-Computer-Practical](https://github.com/OogleGlu/ISC-Computer-Practical) in a single night for submission to school. 
 Why? Coz I am lazy enough to not do a day's work in that day. This project is intended to save such lazy people.<br>
 
