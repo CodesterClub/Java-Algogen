@@ -5,13 +5,13 @@
 The software only supports one kind of algorithm format yet. 
 Plans to add more formats is not under consideration yet (that's all the yets you'll see).
 
-<a href = "https://github.com/CodesterClub/Java-Algogen/archive/main.zip">
+<a href = "https://github.com/CodesterClub/Java-Algogen/archive/main.zip" style = "text-decoration: none;">
 	<button id = "download" onclick = "document.getElementById('download').style.backgroundColor='#FFFFFF'; document.getElementById('download').style.color='#159957';" style = "color: white; height: 45px; background-color: #159957; border: 2px #159957 solid; border-color: #159957; border-radius: 5px;">
 		Download ZIP
 	</button>
 </a>
 &emsp;
-<a href = "https://github.com/CodesterClub/Java-Algogen/">
+<a href = "https://github.com/CodesterClub/Java-Algogen/" style = "text-decoration: none;">
 	<button id = "github" onclick = "document.getElementById('github').style.backgroundColor='#FFFFFF'; document.getElementById('github').style.color='#159957';" style = "color: white; height: 45px; background-color: #159957; border: 2px #159957 solid; border-color: #159957; border-radius: 5px;">
 		View On GitHub
 	</button>
