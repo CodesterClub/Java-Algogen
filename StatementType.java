@@ -1,5 +1,5 @@
 /**
- * This class is used to store function that are used to detect 
+ * This class is used to store function that are used to detect
  * the type of a java statement. A class returns true if that
  * kind of state is in line.
  */
@@ -10,8 +10,8 @@ class StatementType {
 
 	public StatementType() {
 		datatypes = new String[] {	// Note that although String is a class
-			"void",										// it is inculed in this list as String 
-			"boolean",								// is very popular for handling of data
+			"void",			// it is inculed in this list as String
+			"boolean",		// is very popular for handling of data
 			"short",
 			"char",
 			"int",
