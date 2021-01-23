@@ -17,12 +17,6 @@ Plans to add more formats is not under consideration yet (that's all the yets yo
 	</button>
 </a>
 
-## Contribute
- - Remember to comment lavishly in the `pull request` discussion page what changes you have made and why they were necessary when opening a `pull request`
- - If you have a GitHub account and are not an owner of this repository, `fork` this repository and contribute the usual way.
- - If you are one of the repository owners, please `DO NOT` commit directly to `master` or `main`. Leave it for the finalised version.
- - Please `create a branch` and commit there, then open a `pull request`, and then usual `merging` will take place.
-
 ## How to use?
 - You need to [download the ZIP](https://github.com/CodesterClub/Java-Algogen/archive/main.zip). 
 - Then extract it somewhere.
@@ -66,6 +60,12 @@ i.e. rewriting 20 codes as an algorithm.
 We will continue updating the format to make the algorithm look 
 more human-made. If the board changes the style of algorithm, we'll 
 change ours to fit theirs.
+
+## Contribute
+ - Remember to comment lavishly in the `pull request` discussion page what changes you have made and why they were necessary when opening a `pull request`
+ - If you have a GitHub account and are not an owner of this repository, `fork` this repository and contribute the usual way.
+ - If you are one of the repository owners, please `DO NOT` commit directly to `master` or `main`. Leave it for the finalised version.
+ - Please `create a branch` and commit there, then open a `pull request`, and then usual `merging` will take place.
 
 ## Note for owners
 Remember to mention your name while commenting in or participating in a GitHub discussion.
