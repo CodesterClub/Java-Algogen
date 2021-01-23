@@ -68,5 +68,5 @@ change ours to fit theirs.
  - Please `create a branch` and commit there, then open a `pull request`, and then usual `merging` will take place.
 
 ## Note for owners
-Remember to mention your name while commenting in or participating in a GitHub discussion.
+Remember to mention your name while commenting in pull requests, issues, etc, or participating in a GitHub discussion.
 This way others who own it will know who are commenting.
